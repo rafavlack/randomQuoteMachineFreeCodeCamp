@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2a91acc-52b1-4760-9918-859f0180947f" name="Changes" comment="firts commint">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewer/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewer/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewer/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewer/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewer/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewer/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewer/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewer/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewerOLD/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewerOLD/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewerOLD/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewerOLD/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewerOLD/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewerOLD/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewerOLD/postcss.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewerOLD/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewerOLD/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewerOLD/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewerOLD/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewerOLD/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewerOLD/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/markdown-previewerOLD/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/freecodecamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/freecodecamp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2clae2T9DjDjxr2raWjbd0Ncqhj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "D:/1PROGRAMACION/REPO_CODIGOS/freecodecamp/markdown-previewer",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2a91acc-52b1-4760-9918-859f0180947f" name="Changes" comment="" />
+      <created>1708688713411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708688713411</updated>
+      <workItem from="1708688721838" duration="993000" />
+      <workItem from="1708689745355" duration="6991000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firts commint" />
+    <option name="LAST_COMMIT_MESSAGE" value="firts commint" />
+  </component>
+</project>
