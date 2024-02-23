@@ -1,0 +1,55 @@
+
+W
+'markdown-previewer/src/assets/react.svg,3\9\39e807859fa52604035cf698a6b0662eece1b992
+O
+markdown-previewerOLD/README.md,b\7\b746a2e22fd5f56d4e85daa771c0d827f533d41c
+R
+"markdown-previewer/public/vite.svg,0\7\071518a0bebcd78eac807e7a88d72c4471516fd5
+O
+markdown-previewer/package.json,9\3\93a9d67033834d988def81f05cdabf5359a78383
+Q
+!markdown-previewer/vite.config.js,8\2\8216dfbed488521b60bec205ec0b0027b616dfed
+L
+markdown-previewer/README.md,1\f\1fbaf9d619b31b8748d5d4e94163ef9bf634ea52
+\
+,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
+Z
+*markdown-previewerOLD/src/assets/react.svg,4\c\4c8c84305a8118efd61d038a67762d701baf8ad8
+X
+(markdown-previewerOLD/tailwind.config.js,8\d\8d26c21ab6cd93ca9e8496b4552abbbd76c6bfd0
+T
+$markdown-previewer/package-lock.json,f\7\f7f336f149471079ce478f82cde444881b476c43
+T
+$markdown-previewerOLD/vite.config.js,d\b\dbb60c9538f5e529d69d2536aa7106697855341c
+R
+"markdown-previewerOLD/package.json,b\8\b825c37f404baee415fbbc902b6b5c6e53735890
+W
+'markdown-previewerOLD/package-lock.json,7\0\704ce824aa2e9297a01c157f2472ef7f96d5b92d
+X
+(markdown-previewerOLD/postcss.config.cjs,8\7\87d975e576c065bae698fc32c0bfe96a177a745d
+U
+%markdown-previewerOLD/public/vite.svg,e\4\e4068daf02ab151c2c44ebd1187fcbc7c3437f6b
+P
+ markdown-previewer/.eslintrc.cjs,8\6\86e72622614e32d3e8dc7d53dfc40a0e210ee3b3
+S
+#markdown-previewerOLD/.eslintrc.cjs,0\8\0867a13fb68724176ff5b4f2fd9f503e8caa5181
+M
+markdown-previewer/.gitignore,b\f\bfbc9f29d5126b69953e29217415c00759948a0c
+P
+ markdown-previewerOLD/.gitignore,e\c\ec0c99beaff1b0f690dd98659fa84a10c682e13a
+Q
+!markdown-previewerOLD/src/App.jsx,4\6\460f46fa4a124a1367521d307c560c2b23689cfb
+P
+ markdown-previewer/src/index.css,5\0\50b7088c7fddcdc440ef90ef7c60d9f537c76119
+S
+#markdown-previewerOLD/src/index.css,d\6\d6aa967a79136626e0aad13931530813aa17f87e
+M
+markdown-previewer/index.html,9\d\9da6f770a826c89523f4bc77e09a2afbf7f4866a
+P
+ markdown-previewerOLD/index.html,2\a\2aa6141c19fde15104eb3cba4b9f78274cbca111
+O
+markdown-previewer/src/main.jsx,2\d\2d2f4546b40a069bec6a0ad21e8d92285753daa5
+R
+"markdown-previewerOLD/src/main.jsx,7\e\7ed735f7c91e0cf5d4e9373911859f0c352962eb
+N
+markdown-previewer/src/App.jsx,b\4\b4b105cae2711ea91e528108a2281ac31fd5f3d9
